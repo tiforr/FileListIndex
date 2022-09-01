@@ -62,7 +62,7 @@ namespace PathLengthCheckerGUI
 
 		private void SetWindowTitle()
 		{
-			this.Title = "Path Length Checker v" + Assembly.GetEntryAssembly().GetName().Version.ToString(3) + " - Written by Daniel Schroeder";
+			this.Title = "Path Length Checker v" + Assembly.GetEntryAssembly().GetName().Version.ToString(3) + "Written by Tim Forrester";
 		}
 
 		private void LoadColumnSortDescriptionsFromSettings()
